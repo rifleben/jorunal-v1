@@ -17,3 +17,4 @@ Journal v1 allows users to create, view, and edit blog posts on a variety of top
 
 To create a new blog post, users can navigate to "/compose" and fill out the post title and content in the provided form. Once submitted, the new post will be added to the list of existing blog posts on the home page.
 
+![](https://github.com/rifleben/journal-v1/blob/main/Screenshot%202023-04-01%20at%204.30.32%20PM.png)
